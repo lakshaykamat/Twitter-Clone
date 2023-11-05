@@ -4,7 +4,7 @@ type Props = {}
 
 const RightSidebar = (props: Props) => {
     return (
-        <section className='bg-white flex pr-28 flex-col border border-r h-screen w-[32%] px-7'>
+        <section className='bg-white hidden pr-28 flex-col border border-r h-screen w-[32%] px-7 xl:flex'>
             <input className='w-[90%] bg-slate-200 px-7 py-2 rounded-3xl focus:bg-inherit mt-2 focus:outline-blue-300' placeholder='Search'></input>
             <div className='bg-slate-100 p-3 mt-4  my-5 rounded-2xl'>
                 <h1 className='text-lg font-bold'>Subscribe to Premium</h1>
