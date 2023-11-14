@@ -1,4 +1,4 @@
-import { TwitterX } from '@/assets/icons'
+import { HomeIcon, TwitterX } from '@/assets/icons'
 import { faBell, faBookmark, faEnvelope, faUser } from '@fortawesome/free-regular-svg-icons'
 import { faEllipsis, faHouse, faMagnifyingGlass, faUsers } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
